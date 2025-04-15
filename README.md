@@ -49,13 +49,13 @@ If you work with quantum processors, environmental sensor arrays, or are interes
 Pence, S. (2025). *Global Phase Coherence Drift as a Probe of Cosmological Entropy Fluctuations.* Preprint.  
 *(DOI coming soon via Zenodo)*
 
----
 
 ## 🔗 GitHub Pages Site
 
 Visit the project homepage:  
-**https://<your-username>.github.io/entropy-wave-detection/**  
-*(Replace with live link after GitHub Pages is enabled)*
+https://entropywave.github.io/entropy-wave-detection/  
+📄 [`entropy_wave_preprint.tex`](entropy_wave_preprint.tex) — LaTeX source  
+📕 [`entropy_wave_preprint.pdf`](entropy_wave_preprint.pdf) — Rendered version (easier to read)---
 
 ---
 

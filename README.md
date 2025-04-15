@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="entropy_logo.png" alt="Entropy Wave Detection Logo" width="250"/>
+</p>
 
 # Entropy Wave Detection Initiative
 
